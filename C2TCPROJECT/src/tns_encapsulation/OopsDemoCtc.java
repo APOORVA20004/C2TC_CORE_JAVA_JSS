@@ -2,9 +2,9 @@ package tns_encapsulation;
 
 public class OopsDemoCtc {
 	
-	 public  int age;
-	public  String name;
-	public  String email;
+	 private  int age;
+	private  String name;
+	private  String email;
 	
 	
 	
