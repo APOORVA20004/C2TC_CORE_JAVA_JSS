@@ -16,7 +16,7 @@ public class Base {
 		System.out.println("default access base class:");
 		System.out.println("default variable:"+varprivate);
 	}
-	void methodPublic() {
+	public void methodPublic() {
 		System.out.println("default access base class:");
 		System.out.println("default variable:"+varpublic);
 	}

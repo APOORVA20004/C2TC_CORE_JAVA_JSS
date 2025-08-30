@@ -6,8 +6,7 @@ public class Person {
 	private int income;
 	private String gender;
 	 
-	
-	
+
 	public int getAge() {
 		return age;
 	}

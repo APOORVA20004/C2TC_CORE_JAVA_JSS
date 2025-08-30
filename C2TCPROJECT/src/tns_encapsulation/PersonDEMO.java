@@ -11,6 +11,8 @@ public class PersonDEMO {
 		per.setIncome(30000);
 		
         System.out.println(per);
+        
+        
 	}
 
 }

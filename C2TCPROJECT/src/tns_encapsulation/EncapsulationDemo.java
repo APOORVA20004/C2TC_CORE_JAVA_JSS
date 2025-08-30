@@ -10,6 +10,7 @@ public class EncapsulationDemo {
 		obj.setName("Apoorva");
 		obj.setEmail("appu123@gmail.com");
 System.out.println(obj);
+ 
 
 
 	}
